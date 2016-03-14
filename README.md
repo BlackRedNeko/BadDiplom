@@ -1,0 +1,2 @@
+# BadDiplom
+Some strange files
